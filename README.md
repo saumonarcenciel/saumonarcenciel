@@ -1,4 +1,4 @@
-# Salut, moi, c'est SaumonArcEnCiel 👋
+# Salut, moi c'est SaumonArcEnCiel 👋
 
 
 ## 🍣 À propos de moi
