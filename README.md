@@ -18,7 +18,7 @@ Délire de pote qui a trop vite dérappé, me voilà à la tête d'une compagnie
 
 ## 📚 Compétences
 
-Développement : Python (discord.py) / Wordpress expert (si on peut appeler ça du dev..)
+Développement : Python (discord.py) / html débutant / Wordpress expert (si on peut appeler ça du dev..)
 
 Langage : Français (natif), Anglais (intermédiaire CECRL B2), Allemand (Débutant CECRL A2)
 
