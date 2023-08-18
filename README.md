@@ -22,9 +22,9 @@ Développement : Python (discord.py) / html css débutant / Wordpress expert (si
 
 Langage : Français (natif), Anglais (intermédiaire CECRL B2), Allemand (Débutant CECRL A2)
 
-## 📞 Comment me contacter
+## 📞 Discutons !
 
-- contact@clarty.org (Email)
+- saumon@duck.com (Email)
 - SaumonArcEnCiel#9522 (Discord)
 
 
