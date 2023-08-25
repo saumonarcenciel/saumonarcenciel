@@ -11,6 +11,10 @@ Saumon dans l'âme depuis ma tendre enfance, je m'intéresse au développement d
 
 Clarty est un bot 100% français que je développe avec ❤. Il est en constante amélioration et débloque sans cesses de nouvelles fonctionalités. 
 
+### [Oceanhost - Hébergement](https://oceanhost.fr/)
+
+Oceanhost est un service d'hébergement de bots Discord, serveurs Minecraft (et bientôt de sites web). Venez jeter un œil !
+
 ### [Air Saumon](https://air-saumon.com)
 
 Délire de pote qui a trop vite dérappé, me voilà à la tête d'une compagnie aérienne qui n'a simplement pas d'avions !
