@@ -1,5 +1,5 @@
 # Salut, moi c'est SaumonArcEnCiel 👋🏻
-- _Python / HTML CSS / Wordpress_
+- _Dev Python / HTML CSS / Wordpress_
 - _Speak french & english_
 - _15 ans, première générale SES HGGSP NSI_
 
