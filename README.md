@@ -1,4 +1,6 @@
 # Salut, moi c'est SaumonArcEnCiel 👋🏻
+_Python / HTML CSS / Wordpress_
+_Speak french & english_
 
 
 ## 🍣 À propos de moi
@@ -22,13 +24,20 @@ Délire de pote qui a trop vite dérappé, me voilà à la tête d'une compagnie
 
 ## 📚 Compétences
 
-Développement : Python (discord.py) / html css débutant / Wordpress expert (si on peut appeler ça du dev) / Linux (installation panel Pterodactyl et CloudPanel) 
+💻 Informatique
+- HTML / CSS (Débutant)
+- Wordpress (Expert)
+- Python (Discord.py ++)
+- Linux (Débutant)
 
-Langage : Français (natif), Anglais (intermédiaire CECRL B2), Allemand (Débutant CECRL A2)
+✨ Langages
+- Français (natif)
+- Anglais (intermédiaire CECRL B2)
+- Allemand (Débutant CECRL A1 / A2)
 
 ## 📞 Discutons !
 
 - saumon@duck.com (Email)
-- SaumonArcEnCiel#9522 (Discord)
+- saumonarcenciel (Discord)
 
 
