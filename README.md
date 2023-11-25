@@ -16,7 +16,7 @@ Clarty est un bot 100% français que je développe avec ❤. Il est en constante
 
 ### [Oceanhost - Hébergement](https://oceanhost.fr/)
 
-Oceanhost est un service d'hébergement web spécialisée dans Wordpress. Venez voir !
+Oceanhost est un service d'hébergement web spécialisé dans Wordpress. Venez voir !
 ### [Air Saumon](https://air-saumon.com)
 
 Délire de pote qui a trop vite dérappé, me voilà à la tête d'une compagnie aérienne qui n'a simplement pas d'avions !
