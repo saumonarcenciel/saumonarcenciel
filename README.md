@@ -2,6 +2,7 @@
 - _Dev Python / HTML CSS / Wordpress_
 - _Speak french & english_
 - _16 ans, première générale SES HGGSP NSI_
+- Airbus Cyberrange CTF - 3rd (SONAR Team)
 
 
 ## 🍣 À propos de moi
