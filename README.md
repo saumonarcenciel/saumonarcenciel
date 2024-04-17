@@ -1,42 +1,42 @@
-# Salut, moi c'est SaumonArcEnCiel 👋🏻
+# Hi, I'm SaumonArcEnCiel 👋🏻
 - _Dev Python / HTML CSS / Wordpress_
 - _Speak french & english_
 - _16 ans, première générale SES HGGSP NSI_
-- Airbus CyberRange CTF - 3ème (Team SONAR)
+- Airbus CyberRange CTF - 19th of 1182 participants. (Team SONAR)
 
 
 ## 🍣 À propos de moi
 
-Saumon dans l'âme depuis ma tendre enfance, je m'intéresse au développement de bot Discord, à la sécurité & la confidentialité en ligne et à tous projets me passant par la tête. Je débute en programation, mais mon niveau est assez bon pour faire un formidable bot nommé Clarty !
+A salmon at heart since my early childhood, I am interested in Discord bot development, online security & privacy and any project that comes to mind. I'm new to programming, but my level is good enough to make a fantastic bot named Clarty!
 
 ## 👀 Projets
 
-### [Clarty - Bot Discord](https://clarty.org)
+### [Clarty - Discord Bot](https://clarty.org)
 
-Clarty est un bot 100% français que je développe avec ❤. Il est en constante amélioration et débloque sans cesses de nouvelles fonctionalités. 
+Clarty is a 100% French bot that I developed with ❤. It is constantly improving and constantly unlocking new features.
 
-### [Oceanhost - Hébergement](https://oceanhost.fr/)
+### [Oceanhost - Web hosting](https://oceanhost.fr/)
 
-Oceanhost est un service d'hébergement web spécialisé dans Wordpress. Venez voir !
+Oceanhost is a abordable web hosting service. 
+
 ### [Air Saumon](https://air-saumon.com)
 
-Délire de pote qui a trop vite dérappé, me voilà à la tête d'une compagnie aérienne qui n'a simplement pas d'avions !
+Air Saumon is my own airline. Unfortunately, I don't have any plane. 
 
+## 📚 Knowledge
 
-## 📚 Compétences
-
-💻 Informatique
-- HTML / CSS (Débutant)
+💻 Dev.
+- HTML / CSS (Begginer)
 - Wordpress (Expert)
 - Python (Discord.py ++)
-- Linux (Débutant)
+- Linux (Intermediate)
 
 ✨ Langages
 - Français (natif)
-- Anglais (intermédiaire CECRL B2)
-- Allemand (Débutant CECRL A1 / A2)
+- English (intermédiaire CECRL B2)
+- Deutsch (Débutant CECRL A1 / A2)
 
-## 📞 Discutons !
+## 📞 Let's talk !
 
 - saumon@duck.com (Email)
 - saumonarcenciel (Discord)
