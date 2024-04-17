@@ -9,7 +9,7 @@
 
 A salmon at heart since my early childhood, I am interested in Discord bot development, online security & privacy and any project that comes to mind. I'm new to programming, but my level is good enough to make a fantastic bot named Clarty!
 
-## 👀 Projetcs
+## 👀 Projects
 
 ### [Clarty - Discord Bot](https://clarty.org)
 
