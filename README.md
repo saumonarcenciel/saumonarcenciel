@@ -5,11 +5,11 @@
 - Airbus CyberRange CTF - 19th of 1182 participants. (Team SONAR)
 
 
-## 🍣 À propos de moi
+## 🍣 About me
 
 A salmon at heart since my early childhood, I am interested in Discord bot development, online security & privacy and any project that comes to mind. I'm new to programming, but my level is good enough to make a fantastic bot named Clarty!
 
-## 👀 Projets
+## 👀 Projetcs
 
 ### [Clarty - Discord Bot](https://clarty.org)
 
@@ -22,6 +22,10 @@ Oceanhost is a abordable web hosting service.
 ### [Air Saumon](https://air-saumon.com)
 
 Air Saumon is my own airline. Unfortunately, I don't have any plane. 
+
+### [ScammerList](https://scammerlist-bot.com)
+
+We track online scammers on Discord, follow our blacklist and stay safe.
 
 ## 📚 Knowledge
 
