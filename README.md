@@ -19,9 +19,9 @@ Clarty is a 100% French bot that I developed with ❤. It is constantly improvin
 
 Oceanhost is a abordable web hosting service. 
 
-### [Air Saumon](https://air-saumon.com)
+### [Translator Bot]([https://air-saumon.com](https://app.revolt.chat/bot/01HX0519791BX5BFWZ98MNS27H))
 
-Air Saumon is my own airline. Unfortunately, I don't have any plane. 
+First translator bot on Revolt.chat, try it now ! It's free, forever. No premium features, no limitations.
 
 ### [ScammerList](https://scammerlist-bot.com)
 
