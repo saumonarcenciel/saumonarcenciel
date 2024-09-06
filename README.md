@@ -23,10 +23,6 @@ Oceanhost is a abordable web hosting service.
 
 First translator bot on Revolt.chat, try it now ! It's free, forever. No premium features, no limitations.
 
-### [ScammerList](https://scammerlist-bot.com)
-
-We track online scammers on Discord, follow our blacklist and stay safe.
-
 ## 📚 Knowledge
 
 💻 Dev.
