@@ -34,11 +34,11 @@ First translator bot on Revolt.chat, try it now ! It's free, forever. No premium
 ✨ Langages
 - Français (natif)
 - English (intermédiaire CECRL B2)
-- Deutsch (Débutant CECRL A1 / A2)
+- German (beginner CECRL A1 / A2)
 
 ## 📞 Let's talk !
 
-- saumon@duck.com (Email)
+- talk@saumon.me (Email)
 - saumonarcenciel (Discord)
 
 
