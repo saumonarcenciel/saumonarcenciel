@@ -15,7 +15,7 @@ A salmon at heart since my early childhood, I am interested in Discord bot devel
 
 Clarty is a 100% French bot that I developed with ❤. It is constantly improving and constantly unlocking new features.
 
-### [CryptoRabbit - Web hosting](https://crypto-rabbit.xyz/)
+### [CryptoRabbit - Discord Bot](https://crypto-rabbit.xyz/)
 
 With CryptoRabbit, track your Crypto payments and request payments directly on Discord.
 
