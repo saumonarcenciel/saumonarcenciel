@@ -19,7 +19,7 @@ Clarty is a 100% French bot that I developed with ❤. It is constantly improvin
 
 With CryptoRabbit, track your Crypto payments and request payments directly on Discord.
 
-### [Translator Bot]([https://air-saumon.com](https://app.revolt.chat/bot/01HX0519791BX5BFWZ98MNS27H)
+### [Translator Bot](https://app.revolt.chat/bot/01HX0519791BX5BFWZ98MNS27H)
 
 First translator bot on Revolt.chat, try it now ! It's free, forever. No premium features, no limitations.
 
