@@ -15,9 +15,9 @@ A salmon at heart since my early childhood, I am interested in Discord bot devel
 
 Clarty is a 100% French bot that I developed with ❤. It is constantly improving and constantly unlocking new features.
 
-### [Oceanhost - Web hosting](https://oceanhost.fr/)
+### [CryptoRabbit - Web hosting](https://crypto-rabbit.xyz/)
 
-Oceanhost is a abordable web hosting service. 
+With CryptoRabbit, track your Crypto payments and request payments directly on Discord.
 
 ### [Translator Bot]([https://air-saumon.com](https://app.revolt.chat/bot/01HX0519791BX5BFWZ98MNS27H))
 
