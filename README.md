@@ -7,7 +7,7 @@
 
 ## 🍣 About me
 
-A salmon at heart since my early childhood, I am interested in Discord bot development, online security & privacy and any project that comes to mind. I'm new to programming, but my level is good enough to make a fantastic bot named Clarty!
+I am interested in Discord bot development, online security & privacy and any project that comes to mind. I'm new to programming, but my level is good enough to make a fantastic bot named Clarty!
 
 ## 👀 Projects
 
@@ -23,10 +23,15 @@ With CryptoRabbit, track your Crypto payments and request payments directly on D
 
 First translator bot on Revolt.chat, try it now ! It's free, forever. No premium features, no limitations.
 
+### [jailbreakvaluelist.xyz](https://jailbreakvaluelist.xyz/)
+
+JailBreakValueList website provides uninfluenced values of vehicles from the game Jailbreak on Roblox, based on the real value and rarity of cars and tradable items in the game (work in progress, some data might be missing).
+
+
 ## 📚 Knowledge
 
 💻 Dev.
-- HTML / CSS (Begginer)
+- HTML / CSS (Intermediate)
 - Wordpress (Expert)
 - Python (Discord.py ++)
 - Linux (Intermediate)
