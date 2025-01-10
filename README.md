@@ -1,7 +1,7 @@
 # Hi, I'm TheFrenchSalmon 👋🏻
 - _Dev Python / HTML CSS / Wordpress_
 - _Speak french & english_
-- _16 ans, terminale générale SES NSI_
+- _17 ans, terminale générale SES NSI_
 - Airbus CyberRange CTF - 19th of 1182 participants. (Team SONAR) 
 
 
